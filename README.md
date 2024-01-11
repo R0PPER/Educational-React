@@ -12,7 +12,7 @@ Explore React essentials with this concise educational writing app. Covering cor
 
 ## Installation
 
-**1)Clone the repository**  
+**1)Clone the repository.**  
 ```bash
  git clone https://github.com/R0PPER/Educational-React.git  
 ```
