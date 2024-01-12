@@ -17,17 +17,20 @@ Explore React essentials with this concise educational writing app. Covering cor
  git clone https://github.com/R0PPER/Educational-React.git  
 ```
 
-**2)Navigate to the project directory.**  
+**2)Extract the zip file.**
 
 
-**3)Open Terminal.**  
+**3)Navigate to the project directory.**  
 
 
-**4)Install dependencies.**    
+**4)Open Terminal.**  
+
+
+**5)Install dependencies.**    
      ``npm i``
 
-**5)Run the app locally.**  
+**6)Run the app locally.**  
     ``npm run dev``
 
-**6)Visit ``http://localhost/####`` in your browser.**  
+**7)Visit ``http://localhost/####`` in your browser.**  
 
